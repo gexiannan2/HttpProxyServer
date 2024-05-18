@@ -1,0 +1,8 @@
+﻿  tinystr.cpp
+  tinytext.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  正在生成代码...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(F:\zjd\trunk\server\HttpProxyServer\x64\Debug\tinyxml_d.lib) 与 Library 的 OutputFile 属性值(F:\zjd\trunk\server\Bin\lib\tinyxml_d.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  tinyxml.vcxproj -> F:\zjd\trunk\server\HttpProxyServer\x64\Debug\tinyxml_d.lib

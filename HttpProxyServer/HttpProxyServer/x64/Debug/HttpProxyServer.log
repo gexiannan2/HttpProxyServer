@@ -1,0 +1,2909 @@
+﻿  ConCfgManager.cpp
+  MsgCmdCfgManager.cpp
+  HttpProxyServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+F:\zjd\trunk\server\include\hiredis\sds.h(55,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“HttpProxyServer.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(55,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(61,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“HttpProxyServer.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(61,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(67,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“HttpProxyServer.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(67,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(73,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“HttpProxyServer.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(73,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(79,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“HttpProxyServer.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(79,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+  PostManager.cpp
+F:\zjd\trunk\server\HttpProxyServer\HttpProxyServer\PostManager.cpp(80,10): warning C4858: 正在放弃返回值: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+F:\zjd\trunk\server\HttpProxyServer\HttpProxyServer\PostManager.cpp(92,18): warning C4858: 正在放弃返回值: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+  ProtocolForwarder.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+F:\zjd\trunk\server\include\hiredis\sds.h(55,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolForwarder.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(55,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(61,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolForwarder.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(61,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(67,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolForwarder.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(67,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(73,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolForwarder.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(73,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(79,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolForwarder.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(79,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\HttpProxyServer\HttpProxyServer\ProtocolForwarder.cpp(37,12): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  ProtocolManager.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+F:\zjd\trunk\server\include\hiredis\sds.h(55,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolManager.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(55,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(61,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolManager.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(61,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(67,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolManager.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(67,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(73,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolManager.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(73,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+F:\zjd\trunk\server\include\hiredis\sds.h(79,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“ProtocolManager.cpp”)
+  F:\zjd\trunk\server\include\hiredis\sds.h(79,10):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+  RateLimiter.cpp
+  正在生成代码...
+  正在启动传递 1
+  已处理 /DEFAULTLIB: msvcprtd
+  已处理 /DEFAULTLIB: MSVCRTD
+  已处理 /DEFAULTLIB: OLDNAMES
+  已处理 /DEFAULTLIB: ws2_32.lib
+  已处理 /DEFAULTLIB: mswsock.lib
+  已处理 /DEFAULTLIB: bcrypt.lib
+  已处理 /DEFAULTLIB: uuid.lib
+  正在搜索库
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+        已找到 "public: virtual __cdecl TiXmlNode::~TiXmlNode(void)" (??1TiXmlNode@@UEAA@XZ)
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已加载 tinyxml_d.lib(tinyxml.obj)
+        已找到 "public: virtual char const * __cdecl TiXmlDocument::Parse(char const *,class TiXmlParsingData *,enum TiXmlEncoding)" (?Parse@TiXmlDocument@@UEAAPEBDPEBDPEAVTiXmlParsingData@@W4TiXmlEncoding@@@Z)
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 tinyxml_d.lib(tinyxmlparser.obj)
+        已找到 "private: static struct TiXmlString::Rep TiXmlString::nullrep_" (?nullrep_@TiXmlString@@0URep@1@A)
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 tinyxml_d.lib(tinystr.obj)
+        已找到 "protected: static char const * * TiXmlBase::errorString" (?errorString@TiXmlBase@@1PAPEBDA)
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 tinyxml_d.lib(tinyxmlerror.obj)
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+        已找到 freeReplyObject
+          已在 ProtocolForwarder.obj 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+        已找到 redisConnect
+          已在 ProtocolForwarder.obj 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+        已找到 redisFree
+          已在 ProtocolForwarder.obj 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+        已找到 redisCommand
+          已在 ProtocolForwarder.obj 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+        已找到 __IMPORT_DESCRIPTOR_hiredisd
+          已在 hiredisd.lib(hiredisd.dll) 中引用
+          已在 hiredisd.lib(hiredisd.dll) 中引用
+          已在 hiredisd.lib(hiredisd.dll) 中引用
+          已在 hiredisd.lib(hiredisd.dll) 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+        已找到 __NULL_IMPORT_DESCRIPTOR
+          已在 hiredisd.lib(hiredisd.dll) 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+        已找到 hiredisd_NULL_THUNK_DATA
+          已在 hiredisd.lib(hiredisd.dll) 中引用
+          已加载 hiredisd.lib(hiredisd.dll)
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+        已找到 __imp_CloseHandle
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetLastError
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_SetLastError
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_CreateIoCompletionPort
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetQueuedCompletionStatus
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_PostQueuedCompletionStatus
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_CancelIoEx
+          已在 HttpProxyServer.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_EnterCriticalSection
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_LeaveCriticalSection
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_InitializeCriticalSectionAndSpinCount
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_DeleteCriticalSection
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_SetEvent
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_WaitForSingleObject
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_SleepEx
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_CreateEventW
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_SetWaitableTimer
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_WaitForMultipleObjects
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_QueueUserAPC
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_TerminateThread
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_LocalFree
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_FormatMessageA
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_FormatMessageW
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_MultiByteToWideChar
+          已在 HttpProxyServer.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_WideCharToMultiByte
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_CreateFileW
+          已在 PostManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetFileSize
+          已在 PostManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_CreateFileMappingW
+          已在 PostManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_MapViewOfFile
+          已在 PostManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_UnmapViewOfFile
+          已在 PostManager.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __IMPORT_DESCRIPTOR_KERNEL32
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 KERNEL32_NULL_THUNK_DATA
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\msvcprtd.lib:
+        已找到 "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Mtx_init_in_situ
+          已在 ProtocolForwarder.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Mtx_destroy_in_situ
+          已在 ProtocolForwarder.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+          已在 ProtocolForwarder.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Xinvalid_argument(char const *)" (?_Xinvalid_argument@std@@YAXPEBD@Z)
+          已在 MsgCmdCfgManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPEBD@Z)
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cerr" (__imp_?cerr@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+          已在 ProtocolManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrCreate(void *)" (?__ExceptionPtrCreate@@YAXPEAX@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrDestroy(void *)" (?__ExceptionPtrDestroy@@YAXPEAX@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrCopy(void *,void const *)" (?__ExceptionPtrCopy@@YAXPEAXPEBX@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrAssign(void *,void const *)" (?__ExceptionPtrAssign@@YAXPEAXPEBX@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrCurrentException(void *)" (?__ExceptionPtrCurrentException@@YAXPEAX@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrRethrow(void const *)" (?__ExceptionPtrRethrow@@YAXPEBX@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl __ExceptionPtrCopyException(void *,void const *,void const *)" (?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Thrd_join
+          已在 HttpProxyServer.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Thrd_id
+          已在 HttpProxyServer.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Mtx_lock
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Mtx_unlock
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_init_in_situ
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_destroy_in_situ
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_wait
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_signal
+          已在 HttpProxyServer.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_do_broadcast_at_thread_exit
+          已在 HttpProxyServer.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Throw_Cpp_error(int)" (?_Throw_Cpp_error@std@@YAXH@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 __std_count_trivial_1
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(vector_algorithms.obj)
+        已找到 "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Xbad_function_call(void)" (?_Xbad_function_call@std@@YAXXZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Mbrtowc
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (__imp_?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (__imp_?_Getdays@_Locinfo@std@@QEBAPEBDXZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (__imp_?_Getmonths@_Locinfo@std@@QEBAPEBDXZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (__imp_?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (__imp_?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::write(char const *,__int64)" (__imp_?write@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEBD_J@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "bool __cdecl __ExceptionPtrToBool(void const *)" (?__ExceptionPtrToBool@@YA_NPEBX@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 __imp___std_init_once_begin_initialize
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(alias_init_once_begin_initialize.obj)
+        已找到 __imp___std_init_once_complete
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(alias_init_once_complete.obj)
+        已找到 __std_init_once_link_alternate_names_and_abort
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(xonce2.obj)
+        已找到 _Cnd_broadcast
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_register_at_thread_exit
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Cnd_unregister_at_thread_exit
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "char const * __cdecl std::_Syserror_map(int)" (?_Syserror_map@std@@YAPEBDH@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "int __cdecl Concurrency::details::_Schedule_chore(struct Concurrency::details::_Threadpool_chore *)" (?_Schedule_chore@details@Concurrency@@YAHPEAU_Threadpool_chore@12@@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl Concurrency::details::_Release_chore(struct Concurrency::details::_Threadpool_chore *)" (?_Release_chore@details@Concurrency@@YAXPEAU_Threadpool_chore@12@@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl Concurrency::details::_ReportUnobservedException(void)" (?_ReportUnobservedException@details@Concurrency@@YAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "unsigned __int64 __cdecl Concurrency::details::platform::CaptureCallstack(void * *,unsigned __int64,unsigned __int64)" (?CaptureCallstack@platform@details@Concurrency@@YA_KPEAPEAX_K1@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "long __cdecl Concurrency::details::platform::GetCurrentThreadId(void)" (?GetCurrentThreadId@platform@details@Concurrency@@YAJXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_ContextCallback::_CallInContext(class std::function<void __cdecl(void)>,bool)const " (?_CallInContext@_ContextCallback@details@Concurrency@@QEBAXV?$function@$$A6AXXZ@std@@_N@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "private: void __cdecl Concurrency::details::_ContextCallback::_Reset(void)" (?_Reset@_ContextCallback@details@Concurrency@@AEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "private: void __cdecl Concurrency::details::_ContextCallback::_Capture(void)" (?_Capture@_ContextCallback@details@Concurrency@@AEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "private: void __cdecl Concurrency::details::_ExceptionHolder::ReportUnhandledError(void)" (?ReportUnhandledError@_ExceptionHolder@details@Concurrency@@AEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "private: __cdecl Concurrency::task_continuation_context::task_continuation_context(void)" (??0task_continuation_context@Concurrency@@AEAA@XZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_TaskEventLogger::_LogScheduleTask(bool)" (?_LogScheduleTask@_TaskEventLogger@details@Concurrency@@QEAAX_N@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_TaskEventLogger::_LogCancelTask(void)" (?_LogCancelTask@_TaskEventLogger@details@Concurrency@@QEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_TaskEventLogger::_LogTaskCompleted(void)" (?_LogTaskCompleted@_TaskEventLogger@details@Concurrency@@QEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_TaskEventLogger::_LogTaskExecutionCompleted(void)" (?_LogTaskExecutionCompleted@_TaskEventLogger@details@Concurrency@@QEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_TaskEventLogger::_LogWorkItemStarted(void)" (?_LogWorkItemStarted@_TaskEventLogger@details@Concurrency@@QEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: void __cdecl Concurrency::details::_TaskEventLogger::_LogWorkItemCompleted(void)" (?_LogWorkItemCompleted@_TaskEventLogger@details@Concurrency@@QEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPEAV_Facet_base@1@@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(locale0_implib.obj)
+        已找到 "__declspec(dllimport) public: __cdecl std::locale::id::operator unsigned __int64(void)" (__imp_??Bid@locale@std@@QEAA_KXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::codecvt_base::always_noconv(void)const " (__imp_?always_noconv@codecvt_base@std@@QEBA_NXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::codecvt<char,char,struct _Mbstatet>::in(struct _Mbstatet &,char const *,char const *,char const * &,char *,char *,char * &)const " (__imp_?in@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::codecvt<char,char,struct _Mbstatet>::out(struct _Mbstatet &,char const *,char const *,char const * &,char *,char *,char * &)const " (__imp_?out@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEBD1AEAPEBDPEAD3AEAPEAD@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::codecvt<char,char,struct _Mbstatet>::unshift(struct _Mbstatet &,char *,char *,char * &)const " (__imp_?unshift@?$codecvt@DDU_Mbstatet@@@std@@QEBAHAEAU_Mbstatet@@PEAD1AEAPEAD@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static unsigned __int64 __cdecl std::codecvt<char,char,struct _Mbstatet>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (__imp_?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::ios_base::operator bool(void)const " (__imp_??Bios_base@std@@QEBA_NXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: virtual __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::locale __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::getloc(void)const " (__imp_?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sbumpc(void)" (__imp_?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sgetc(void)" (__imp_?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::snextc(void)" (__imp_?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::eback(void)const " (__imp_?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (__imp_?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pptr(void)const " (__imp_?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::egptr(void)const " (__imp_?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gbump(int)" (__imp_?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setg(char *,char *,char *)" (__imp_?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::epptr(void)const " (__imp_?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gndec(void)" (__imp_?_Gndec@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gninc(void)" (__imp_?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Gnavail(void)const " (__imp_?_Gnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pbump(int)" (__imp_?pbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *)" (__imp_?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD0@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *,char *)" (__imp_?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (__imp_?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pnavail(void)const " (__imp_?_Pnavail@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBA_JXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Init(void)" (__imp_?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXXZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Init(char * *,char * *,int *,char * *,char * *,int *)" (__imp_?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAPEAD0PEAH001@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsgetn(char *,__int64)" (__imp_?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsputn(char const *,__int64)" (__imp_?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: virtual __cdecl std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: __cdecl std::basic_ios<char,struct std::char_traits<char> >::basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::basic_ostream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (__imp_??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: virtual __cdecl std::basic_ostream<char,struct std::char_traits<char> >::~basic_ostream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(__int64)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_J@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::fpos<struct _Mbstatet> __cdecl std::basic_ostream<char,struct std::char_traits<char> >::tellp(void)" (__imp_?tellp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA?AV?$fpos@U_Mbstatet@@@2@XZ)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::basic_istream<char,struct std::char_traits<char> >::basic_istream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (__imp_??0?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: virtual __cdecl std::basic_istream<char,struct std::char_traits<char> >::~basic_istream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_istream@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::basic_istream<char,struct std::char_traits<char> >::_Ipfx(bool)" (__imp_?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA_N_N@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::basic_istream<char,struct std::char_traits<char> >::operator>>(int &)" (__imp_??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEAH@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::basic_istream<char,struct std::char_traits<char> >::operator>>(__int64 &)" (__imp_??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEA_J@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "struct _iobuf * __cdecl std::_Fiopen(char const *,int,int)" (?_Fiopen@std@@YAPEAU_iobuf@@PEBDHH@Z)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "protected: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::imbue(class std::locale const &)" (?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "protected: virtual int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sync(void)" (?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "protected: virtual class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setbuf(char *,__int64)" (?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "protected: virtual int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::uflow(void)" (?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::showmanyc(void)" (?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Unlock(void)" (?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Lock(void)" (?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ)
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static class std::locale::id std::codecvt<char,char,struct _Mbstatet>::id" (__imp_?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A)
+          已在 PostManager.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Strcoll
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Strxfrm
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::_Locinfo::_Locinfo(char const *)" (__imp_??0_Locinfo@std@@QEAA@PEBD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::_Locinfo::~_Locinfo(void)" (__imp_??1_Locinfo@std@@QEAA@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: struct _Collvec __cdecl std::_Locinfo::_Getcoll(void)const " (__imp_?_Getcoll@_Locinfo@std@@QEBA?AU_Collvec@@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char const * __cdecl std::_Yarn<char>::c_str(void)const " (__imp_?c_str@?$_Yarn@D@std@@QEBAPEBDXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static void * __cdecl std::_Crt_new_delete::operator new(unsigned __int64)" (__imp_??2_Crt_new_delete@std@@SAPEAX_K@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static void __cdecl std::_Crt_new_delete::operator delete(void *)" (__imp_??3_Crt_new_delete@std@@SAXPEAX@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: __cdecl std::locale::facet::facet(unsigned __int64)" (__imp_??0facet@locale@std@@IEAA@_K@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: virtual __cdecl std::locale::facet::~facet(void)" (__imp_??1facet@locale@std@@MEAA@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::ctype<char>::is(short,char)const " (__imp_?is@?$ctype@D@std@@QEBA_NFD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char __cdecl std::ctype<char>::tolower(char)const " (__imp_?tolower@?$ctype@D@std@@QEBADD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: char const * __cdecl std::ctype<char>::tolower(char *,char const *)const " (__imp_?tolower@?$ctype@D@std@@QEBAPEBDPEADPEBD@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static unsigned __int64 __cdecl std::ctype<char>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (__imp_?_Getcat@?$ctype@D@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::ios_base::operator!(void)const " (__imp_??7ios_base@std@@QEBA_NXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::ios_base::eof(void)const " (__imp_?eof@ios_base@std@@QEBA_NXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::ios_base::fail(void)const " (__imp_?fail@ios_base@std@@QEBA_NXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: bool __cdecl std::ios_base::bad(void)const " (__imp_?bad@ios_base@std@@QEBA_NXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::locale __cdecl std::ios_base::getloc(void)const " (__imp_?getloc@ios_base@std@@QEBA?AVlocale@2@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pbase(void)const " (__imp_?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::clear(int,bool)" (__imp_?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::locale __cdecl std::basic_ios<char,struct std::char_traits<char> >::imbue(class std::locale const &)" (__imp_?imbue@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAA?AVlocale@2@AEBV32@@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned long)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@K@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::basic_istream<char,struct std::char_traits<char> >::operator>>(class std::basic_istream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_istream<char,struct std::char_traits<char> > &))" (__imp_??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: int __cdecl std::basic_istream<char,struct std::char_traits<char> >::get(void)" (__imp_?get@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: __cdecl std::basic_iostream<char,struct std::char_traits<char> >::basic_iostream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *)" (__imp_??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: virtual __cdecl std::basic_iostream<char,struct std::char_traits<char> >::~basic_iostream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "void __cdecl std::_Xregex_error(enum std::regex_constants::error_type)" (?_Xregex_error@std@@YAXW4error_type@regex_constants@1@@Z)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: virtual void __cdecl std::locale::facet::_Incref(void)" (?_Incref@facet@locale@std@@UEAAXXZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "public: virtual class std::_Facet_base * __cdecl std::locale::facet::_Decref(void)" (?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static class std::locale::id std::ctype<char>::id" (__imp_?id@?$ctype@D@std@@2V0locale@2@A)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 "__declspec(dllimport) public: static class std::locale::id std::collate<char>::id" (__imp_?id@?$collate@D@std@@2V0locale@2@A)
+          已在 ProtocolForwarder.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Query_perf_counter
+          已在 RateLimiter.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 _Query_perf_frequency
+          已在 RateLimiter.obj 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 __IMPORT_DESCRIPTOR_MSVCP140D
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+        已找到 MSVCP140D_NULL_THUNK_DATA
+          已在 msvcprtd.lib(MSVCP140D.dll) 中引用
+          已加载 msvcprtd.lib(MSVCP140D.dll)
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\MSVCRTD.lib:
+        已找到 "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(new_scalar.obj)
+        已找到 "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(delete_scalar_size.obj)
+        已找到 "void __cdecl operator delete[](void *)" (??_V@YAXPEAX@Z)
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 MSVCRTD.lib(delete_array.obj)
+        已找到 atexit
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 msvcprtd.lib(locale0_implib.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(utility.obj)
+        已找到 _RTC_CheckStackVars
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(stack.obj)
+        已找到 _RTC_InitBase
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(init.obj)
+        已找到 __CheckForDebuggerJustMyCode
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(debugger_jmc.obj)
+        已找到 __GSHandlerCheck
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 msvcprtd.lib(vector_algorithms.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(gshandler.obj)
+        已找到 __GSHandlerCheck_EH4
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(gshandlereh4.obj)
+        已找到 __security_check_cookie
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 msvcprtd.lib(vector_algorithms.obj) 中引用
+          已在 MSVCRTD.lib(gshandler.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(amdsecgs.obj)
+        已找到 "const type_info::`vftable'" (??_7type_info@@6B@)
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(std_type_info_static.obj)
+        已找到 __security_cookie
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 msvcprtd.lib(vector_algorithms.obj) 中引用
+          已在 MSVCRTD.lib(amdsecgs.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 MSVCRTD.lib(gs_cookie.obj)
+        已找到 "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 MSVCRTD.lib(ehvecdtr.obj)
+        已找到 "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z)
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 MSVCRTD.lib(new_array.obj)
+        已找到 "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z)
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 MSVCRTD.lib(delete_array_size.obj)
+        已找到 __dyn_tls_on_demand_init
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 MSVCRTD.lib(tlsdyn.obj)
+        已找到 _Init_thread_header
+          已在 RateLimiter.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 MSVCRTD.lib(thread_safe_statics.obj)
+        已找到 __chkstk
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 MSVCRTD.lib(chkstk.obj)
+        已找到 _tls_index
+          已在 RateLimiter.obj 中引用
+          已在 MSVCRTD.lib(tlsdyn.obj) 中引用
+          已在 MSVCRTD.lib(tlsdyn.obj) 中引用
+          已在 MSVCRTD.lib(thread_safe_statics.obj) 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 MSVCRTD.lib(tlssup.obj)
+        已找到 _fltused
+          已在 PostManager.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 MSVCRTD.lib(fltused.obj)
+        已找到 mainCRTStartup
+          已加载 MSVCRTD.lib(exe_main.obj)
+        已找到 __isa_enabled
+          已在 msvcprtd.lib(vector_algorithms.obj) 中引用
+          已加载 MSVCRTD.lib(cpu_disp.obj)
+        已找到 __guard_dispatch_icall_fptr
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已在 msvcprtd.lib(locale0_implib.obj) 中引用
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(ehvecdtr.obj) 中引用
+          已在 MSVCRTD.lib(tlsdyn.obj) 中引用
+          已加载 MSVCRTD.lib(guard_support.obj)
+        已找到 "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)
+          已在 MSVCRTD.lib(new_scalar.obj) 中引用
+          已加载 MSVCRTD.lib(throw_bad_alloc.obj)
+        已找到 "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
+          已在 MSVCRTD.lib(delete_scalar_size.obj) 中引用
+          已在 MSVCRTD.lib(delete_array.obj) 中引用
+          已加载 MSVCRTD.lib(delete_scalar.obj)
+        已找到 _get_startup_argv_mode
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(argv_mode.obj)
+        已找到 __scrt_is_ucrt_dll_in_use
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 MSVCRTD.lib(ucrt_detection.obj)
+        已找到 __scrt_fastfail
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(utility_desktop.obj)
+        已找到 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z)
+          已在 MSVCRTD.lib(stack.obj) 中引用
+          已加载 MSVCRTD.lib(error.obj)
+        已找到 _RTC_SetErrorFuncW
+          已在 MSVCRTD.lib(init.obj) 中引用
+          已加载 MSVCRTD.lib(userapi.obj)
+        已找到 __report_gsfailure
+          已在 MSVCRTD.lib(amdsecgs.obj) 中引用
+          已加载 MSVCRTD.lib(gs_report.obj)
+        已找到 __security_init_cookie
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(gs_support.obj)
+        已找到 _matherr
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(matherr.obj)
+        已找到 _get_startup_commit_mode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(commit_mode.obj)
+        已找到 _get_startup_file_mode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(file_mode.obj)
+        已找到 _get_startup_new_mode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(new_mode.obj)
+        已找到 _get_startup_thread_locale_mode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(thread_locale.obj)
+        已找到 "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(tncleanup.obj)
+        已找到 _should_initialize_environment
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(env_mode.obj)
+        已找到 _initialize_invalid_parameter_handler
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(invalid_parameter_handler.obj)
+        已找到 _initialize_denormal_control
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(denormal_control.obj)
+        已找到 __scrt_initialize_default_local_stdio_options
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(default_local_stdio_options.obj)
+        已找到 __scrt_is_user_matherr_present
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(matherr_detection.obj)
+        已找到 __scrt_get_dyn_tls_init_callback
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(dyn_tls_init.obj)
+        已找到 __scrt_get_dyn_tls_dtor_callback
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(dyn_tls_dtor.obj)
+        已找到 _RTC_Initialize
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(initsect.obj)
+        已找到 __xi_a
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 MSVCRTD.lib(initializers.obj)
+  已处理 /DEFAULTLIB: kernel32.lib
+   已处理 /DISALLOWLIB: msvcrt.lib
+   已处理 /DISALLOWLIB: libcmt.lib
+   已处理 /DISALLOWLIB: libcmtd.lib
+   已处理 /DISALLOWLIB: vcruntime.lib
+  已处理 /DEFAULTLIB: vcruntimed.lib
+   已处理 /DISALLOWLIB: libvcruntime.lib
+   已处理 /DISALLOWLIB: libvcruntimed.lib
+   已处理 /DISALLOWLIB: ucrt.lib
+  已处理 /DEFAULTLIB: ucrtd.lib
+   已处理 /DISALLOWLIB: libucrt.lib
+   已处理 /DISALLOWLIB: libucrtd.lib
+        已找到 _guard_dispatch_icall_nop
+          已在 MSVCRTD.lib(guard_support.obj) 中引用
+          已加载 MSVCRTD.lib(guard_dispatch.obj)
+        已找到 _guard_xfg_dispatch_icall_nop
+          已在 MSVCRTD.lib(guard_support.obj) 中引用
+          已加载 MSVCRTD.lib(guard_xfg_dispatch.obj)
+        已找到 "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z)
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 MSVCRTD.lib(pdblkup.obj)
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ws2_32.lib:
+        已找到 __imp_bind
+          已在 HttpProxyServer.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_closesocket
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_ioctlsocket
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_htonl
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_htons
+          已在 HttpProxyServer.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_listen
+          已在 HttpProxyServer.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_ntohl
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_setsockopt
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_shutdown
+          已在 HttpProxyServer.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSAStartup
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSACleanup
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSASetLastError
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSAGetLastError
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSARecv
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSASend
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSASocketW
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSAStringToAddressW
+          已在 HttpProxyServer.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_connect
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_getpeername
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_getsockopt
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_select
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_WSAAddressToStringW
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_getaddrinfo
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp_freeaddrinfo
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __IMPORT_DESCRIPTOR_WS2_32
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 WS2_32_NULL_THUNK_DATA
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\mswsock.lib:
+        已找到 AcceptEx
+          已在 HttpProxyServer.obj 中引用
+          已加载 mswsock.lib(MSWSOCK.dll)
+        已找到 GetAcceptExSockaddrs
+          已在 HttpProxyServer.obj 中引用
+          已加载 mswsock.lib(MSWSOCK.dll)
+        已找到 __IMPORT_DESCRIPTOR_MSWSOCK
+          已在 mswsock.lib(MSWSOCK.dll) 中引用
+          已在 mswsock.lib(MSWSOCK.dll) 中引用
+          已加载 mswsock.lib(MSWSOCK.dll)
+        已找到 MSWSOCK_NULL_THUNK_DATA
+          已在 mswsock.lib(MSWSOCK.dll) 中引用
+          已加载 mswsock.lib(MSWSOCK.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\vcruntimed.lib:
+        已找到 memcpy
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 memmove
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __std_exception_copy
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 MSVCRTD.lib(throw_bad_alloc.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __std_exception_destroy
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 MSVCRTD.lib(throw_bad_alloc.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 _CxxThrowException
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 MSVCRTD.lib(throw_bad_alloc.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __CxxFrameHandler4
+          已在 MSVCRTD.lib(gshandlereh4.obj) 中引用
+          已在 MSVCRTD.lib(tlsdyn.obj) 中引用
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 msvcprtd.lib(vector_algorithms.obj) 中引用
+          已在 msvcprtd.lib(locale0_implib.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140_1D.dll)
+        已找到 _purecall
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __std_type_info_compare
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 memcmp
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 memset
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __C_specific_handler
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(ehvecdtr.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 memchr
+          已在 PostManager.obj 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 strchr
+          已在 ProtocolForwarder.obj 中引用
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __current_exception
+          已在 MSVCRTD.lib(ehvecdtr.obj) 中引用
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __current_exception_context
+          已在 MSVCRTD.lib(ehvecdtr.obj) 中引用
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __C_specific_handler_noexcept
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __std_type_info_destroy_list
+          已在 MSVCRTD.lib(tncleanup.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __vcrt_GetModuleFileNameW
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __vcrt_GetModuleHandleW
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __vcrt_LoadLibraryExW
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __IMPORT_DESCRIPTOR_VCRUNTIME140D
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 __IMPORT_DESCRIPTOR_VCRUNTIME140_1D
+          已在 vcruntimed.lib(VCRUNTIME140_1D.dll) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140_1D.dll)
+        已找到 VCRUNTIME140D_NULL_THUNK_DATA
+          已在 vcruntimed.lib(VCRUNTIME140D.dll) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140D.dll)
+        已找到 VCRUNTIME140_1D_NULL_THUNK_DATA
+          已在 vcruntimed.lib(VCRUNTIME140_1D.dll) 中引用
+          已加载 vcruntimed.lib(VCRUNTIME140_1D.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrtd.lib:
+        已找到 __imp__invalid_parameter
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__CrtDbgReport
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 strlen
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 tinyxml_d.lib(tinystr.obj) 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已在 ConCfgManager.obj 中引用
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_atoi
+          已在 ConCfgManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__errno
+          已在 MsgCmdCfgManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_strtol
+          已在 MsgCmdCfgManager.obj 中引用
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__calloc_dbg
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__aligned_free
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__aligned_malloc
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_terminate
+          已在 HttpProxyServer.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__wassert
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_wcslen
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 strcmp
+          已在 HttpProxyServer.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_strerror
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_strncpy
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp___stdio_common_vsprintf
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__beginthreadex
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_signal
+          已在 HttpProxyServer.obj 中引用
+          已在 ProtocolForwarder.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_ceilf
+          已在 PostManager.obj 中引用
+          已在 ProtocolManager.obj 中引用
+          已在 RateLimiter.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_abort
+          已在 PostManager.obj 中引用
+          已在 msvcprtd.lib(xonce2.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__get_stream_buffer_pointers
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fclose
+          已在 PostManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fflush
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fgetc
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fgetpos
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fputc
+          已在 PostManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fread
+          已在 PostManager.obj 中引用
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fsetpos
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__fseeki64
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fwrite
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_setvbuf
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_ungetc
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__lock_file
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__unlock_file
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__CrtDbgReportW
+          已在 PostManager.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_free
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_realloc
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__localtime64_s
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__time64
+          已在 ProtocolForwarder.obj 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fopen_s
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_ferror
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_fseek
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_ftell
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp___stdio_common_vfprintf
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp___stdio_common_vsnprintf_s
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp___stdio_common_vsscanf
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_atof
+          已在 tinyxml_d.lib(tinyxml.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_isalpha
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_isspace
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_isalnum
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_tolower
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp_strncmp
+          已在 tinyxml_d.lib(tinyxmlparser.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__free_dbg
+          已在 msvcprtd.lib(locale0_implib.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __imp__malloc_dbg
+          已在 msvcprtd.lib(locale0_implib.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _callnewh
+          已在 MSVCRTD.lib(new_scalar.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 malloc
+          已在 MSVCRTD.lib(new_scalar.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _seh_filter_dll
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _configure_narrow_argv
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _initialize_narrow_environment
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _initialize_onexit_table
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _register_onexit_function
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _execute_onexit_table
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _crt_atexit
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _crt_at_quick_exit
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _cexit
+          已在 MSVCRTD.lib(utility.obj) 中引用
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _seh_filter_exe
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _set_app_type
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __setusermatherr
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _get_initial_narrow_environment
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _initterm
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _initterm_e
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 exit
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _exit
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _set_fmode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __p___argc
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __p___argv
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _c_exit
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _register_thread_local_exe_atexit_callback
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _configthreadlocale
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _set_new_mode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __p__commode
+          已在 MSVCRTD.lib(exe_main.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 strcpy_s
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 strcat_s
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __stdio_common_vsprintf_s
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _wmakepath_s
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 _wsplitpath_s
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 wcscpy_s
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 __IMPORT_DESCRIPTOR_ucrtbased
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+        已找到 ucrtbased_NULL_THUNK_DATA
+          已在 ucrtd.lib(ucrtbased.dll) 中引用
+          已加载 ucrtd.lib(ucrtbased.dll)
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+        已找到 __imp_InitOnceBeginInitialize
+          已在 msvcprtd.lib(alias_init_once_begin_initialize.obj) 中引用
+          已在 msvcprtd.lib(xonce2.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_InitOnceComplete
+          已在 msvcprtd.lib(alias_init_once_complete.obj) 中引用
+          已在 msvcprtd.lib(xonce2.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetCurrentThreadId
+          已在 MSVCRTD.lib(debugger_jmc.obj) 中引用
+          已在 MSVCRTD.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_ReleaseSRWLockExclusive
+          已在 MSVCRTD.lib(thread_safe_statics.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_AcquireSRWLockExclusive
+          已在 MSVCRTD.lib(thread_safe_statics.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_WakeAllConditionVariable
+          已在 MSVCRTD.lib(thread_safe_statics.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_SleepConditionVariableSRW
+          已在 MSVCRTD.lib(thread_safe_statics.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_RtlCaptureContext
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_RtlLookupFunctionEntry
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_RtlVirtualUnwind
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_IsDebuggerPresent
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_UnhandledExceptionFilter
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_SetUnhandledExceptionFilter
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetStartupInfoW
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_IsProcessorFeaturePresent
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetModuleHandleW
+          已在 MSVCRTD.lib(utility_desktop.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_RaiseException
+          已在 MSVCRTD.lib(error.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetCurrentProcess
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_TerminateProcess
+          已在 MSVCRTD.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_QueryPerformanceCounter
+          已在 MSVCRTD.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetCurrentProcessId
+          已在 MSVCRTD.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetSystemTimeAsFileTime
+          已在 MSVCRTD.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_InitializeSListHead
+          已在 MSVCRTD.lib(tncleanup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_HeapAlloc
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_HeapFree
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetProcessHeap
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_VirtualQuery
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_FreeLibrary
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp_GetProcAddress
+          已在 MSVCRTD.lib(pdblkup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\msvcprtd.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\MSVCRTD.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ws2_32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\mswsock.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\vcruntimed.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrtd.lib:
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+  已完成库搜索
+  正在搜索库
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\msvcprtd.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\MSVCRTD.lib:
+        已找到 __scrt_stub_for_acrt_initialize
+          已加载 MSVCRTD.lib(ucrt_stubs.obj)
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ws2_32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\mswsock.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\vcruntimed.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrtd.lib:
+  已完成库搜索
+  正在搜索库
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\msvcprtd.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\MSVCRTD.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ws2_32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\mswsock.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\vcruntimed.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrtd.lib:
+  已完成库搜索
+  正在搜索库
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\msvcprtd.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\MSVCRTD.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ws2_32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\mswsock.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\vcruntimed.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64\ucrtd.lib:
+  已完成库搜索
+  已完成传递 1
+  正在搜索库
+      正在搜索 ..\..\Bin\lib\tinyxml_d.lib:
+      正在搜索 ..\..\Bin\lib\redis++.lib:
+      正在搜索 ..\..\Bin\lib\hiredisd.lib:
+      正在搜索 ..\..\Bin\lib\hiredis_ssld.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib:
+      正在搜索 F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\msvcprtd.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\MSVCRTD.lib:
+        已找到 _load_config_used
+          已加载 MSVCRTD.lib(loadcfg.obj)
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ws2_32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\mswsock.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib:
+      正在搜索 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\vcruntimed.lib:
+        已找到 __guard_memcpy_fptr
+          已在 MSVCRTD.lib(loadcfg.obj) 中引用
+          已加载 vcruntimed.lib(softmemtag.obj)
+  已完成库搜索
+  正在调用 rc.exe:
+   /v
+   /x
+   /fo
+   "C:\Users\Jump\AppData\Local\Temp\lnk{244AF668-B6FA-4389-9577-B9527931F036}.tmp"
+   "C:\Users\Jump\AppData\Local\Temp\lnk{1DDC9E5A-FD06-492E-AD19-B701A2A630D4}.tmp"
+  Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Using codepage 936 as default
+  Creating C:\Users\Jump\AppData\Local\Temp\lnk{244AF668-B6FA-4389-9577-B9527931F036}.tmp
+  
+  
+  C:\Users\Jump\AppData\Local\Temp\lnk{1DDC9E5A-FD06-492E-AD19-B701A2A630D4}.tmp.
+  Writing 24:1,	lang:0x409,	size 381
+  正在调用 cvtres.exe:
+   /machine:amd64
+   /verbose
+   /out:"C:\Users\Jump\AppData\Local\Temp\lnk{CEFEB649-3EC0-4786-87FB-0A10C8B30094}.tmp"
+   /readonly
+   "C:\Users\Jump\AppData\Local\Temp\lnk{244AF668-B6FA-4389-9577-B9527931F036}.tmp"
+  Microsoft(R) Windows Resource To Object Converter 版本 14.39.33523.0
+  版权所有 (C) Microsoft Corporation。保留所有权利。
+  
+  正在添加资源。类型: MANIFEST，名称: 1，语言: 0x0409，标记: 0x30，大小: 381
+  未使用的库:
+    ..\..\Bin\lib\redis++.lib
+    ..\..\Bin\lib\hiredis_ssld.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\user32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\gdi32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\winspool.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\comdlg32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\advapi32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\shell32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\ole32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\oleaut32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\uuid.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbc32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\odbccp32.lib
+    F:\vcpkg\installed\x64-windows\debug\lib\libcrypto.lib
+    F:\vcpkg\installed\x64-windows\debug\lib\libssl.lib
+    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64\OLDNAMES.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64\bcrypt.lib
+  正在启动传递 2
+       * linker generated manifest res *
+       RateLimiter.obj
+       ProtocolManager.obj
+       ProtocolForwarder.obj
+       PostManager.obj
+       HttpProxyServer.obj
+       MsgCmdCfgManager.obj
+       ConCfgManager.obj
+       tinyxml_d.lib(tinystr.obj)
+       tinyxml_d.lib(tinyxml.obj)
+       tinyxml_d.lib(tinyxmlerror.obj)
+       tinyxml_d.lib(tinyxmlparser.obj)
+       hiredisd.lib(hiredisd.dll)
+       hiredisd.lib(hiredisd.dll)
+       hiredisd.lib(hiredisd.dll)
+       hiredisd.lib(hiredisd.dll)
+       hiredisd.lib(hiredisd.dll)
+       hiredisd.lib(hiredisd.dll)
+       hiredisd.lib(hiredisd.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(xonce2.obj)
+       msvcprtd.lib(vector_algorithms.obj)
+       msvcprtd.lib(locale0_implib.obj)
+       msvcprtd.lib(alias_init_once_complete.obj)
+       msvcprtd.lib(alias_init_once_begin_initialize.obj)
+       MSVCRTD.lib(amdsecgs.obj)
+       MSVCRTD.lib(chkstk.obj)
+       MSVCRTD.lib(guard_dispatch.obj)
+       MSVCRTD.lib(guard_xfg_dispatch.obj)
+       MSVCRTD.lib(gs_cookie.obj)
+       MSVCRTD.lib(gs_report.obj)
+       MSVCRTD.lib(gs_support.obj)
+       MSVCRTD.lib(debugger_jmc.obj)
+       MSVCRTD.lib(guard_support.obj)
+       MSVCRTD.lib(loadcfg.obj)
+       MSVCRTD.lib(dyn_tls_dtor.obj)
+       MSVCRTD.lib(dyn_tls_init.obj)
+       MSVCRTD.lib(matherr_detection.obj)
+       MSVCRTD.lib(ucrt_detection.obj)
+       MSVCRTD.lib(cpu_disp.obj)
+       MSVCRTD.lib(argv_mode.obj)
+       MSVCRTD.lib(commit_mode.obj)
+       MSVCRTD.lib(default_local_stdio_options.obj)
+       MSVCRTD.lib(denormal_control.obj)
+       MSVCRTD.lib(env_mode.obj)
+       MSVCRTD.lib(file_mode.obj)
+       MSVCRTD.lib(fltused.obj)
+       MSVCRTD.lib(invalid_parameter_handler.obj)
+       MSVCRTD.lib(matherr.obj)
+       MSVCRTD.lib(new_mode.obj)
+       MSVCRTD.lib(thread_locale.obj)
+       MSVCRTD.lib(ehvecdtr.obj)
+       MSVCRTD.lib(std_type_info_static.obj)
+       MSVCRTD.lib(tncleanup.obj)
+       MSVCRTD.lib(delete_array.obj)
+       MSVCRTD.lib(delete_array_size.obj)
+       MSVCRTD.lib(delete_scalar.obj)
+       MSVCRTD.lib(delete_scalar_size.obj)
+       MSVCRTD.lib(new_array.obj)
+       MSVCRTD.lib(new_scalar.obj)
+       MSVCRTD.lib(throw_bad_alloc.obj)
+       MSVCRTD.lib(thread_safe_statics.obj)
+       MSVCRTD.lib(exe_main.obj)
+       MSVCRTD.lib(tlsdyn.obj)
+       MSVCRTD.lib(tlssup.obj)
+       MSVCRTD.lib(initializers.obj)
+       MSVCRTD.lib(utility.obj)
+       MSVCRTD.lib(ucrt_stubs.obj)
+       MSVCRTD.lib(utility_desktop.obj)
+       MSVCRTD.lib(error.obj)
+       MSVCRTD.lib(init.obj)
+       MSVCRTD.lib(initsect.obj)
+       MSVCRTD.lib(pdblkup.obj)
+       MSVCRTD.lib(stack.obj)
+       MSVCRTD.lib(userapi.obj)
+       MSVCRTD.lib(gshandler.obj)
+       MSVCRTD.lib(gshandlereh4.obj)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       ws2_32.lib(WS2_32.dll)
+       mswsock.lib(MSWSOCK.dll)
+       mswsock.lib(MSWSOCK.dll)
+       mswsock.lib(MSWSOCK.dll)
+       mswsock.lib(MSWSOCK.dll)
+       vcruntimed.lib(VCRUNTIME140_1D.dll)
+       vcruntimed.lib(VCRUNTIME140_1D.dll)
+       vcruntimed.lib(VCRUNTIME140_1D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(softmemtag.obj)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+  已完成传递 2
+  HttpProxyServer.vcxproj -> F:\zjd\trunk\server\Bin\HttpProxyServer.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

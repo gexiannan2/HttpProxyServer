@@ -1,0 +1,9 @@
+# 忽略特定目录
+include/boost/
+# 忽略特定类型文件
+*.pch
+*.lib
+*.ibs
+*.db
+*.ipch
+
